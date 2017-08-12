@@ -1,2 +1,13 @@
-# AlexaRemoteEsp8266
-Switch RF Stuff with Amazon Echo
+ESP8266-Amazon Echo-Remote Sockets-Thingy  
+by http://diygadget.wordpress.com and      
+https://youtu.be/48RW4JHMXUA               
+
+Get following Arduino Libaries and the newest Arduino IDE:
+ 
+https://github.com/sui77/rc-switch/archive/master.zip
+https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip
+https://github.com/me-no-dev/ESPAsyncUDP/archive/master.zip
+https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip
+https://bitbucket.org/xoseperez/fauxmoesp/downloads
+
+Open the File and type in your Wifi and Socket Settings. Then enjoy switching RF devices with Alexa. :)
